@@ -9,13 +9,13 @@
 .top-bar{
     display: flex;
     justify-content: center;
-    gap: 14px;
-    padding-top: 60px;
+    gap: 12px;
+    padding-top: 50px;
 }
 .top-bar input{
     display: flex;
-    width: 362px;
-    height: 78px;
+    width: 300px;
+    height: 60px;
     background:#ebfffc;
     border: none;
     outline: none;
@@ -29,7 +29,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 78px;
+    width: 70px;
     background: #ebfffc;
     border-radius: 40px;
     cursor: pointer;
